@@ -1,0 +1,28 @@
+.myclass{
+    padding:800px;
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    padding-left: 500px;
+    
+
+
+}
+
+#left-menuColor{
+    width:2000px;
+    height: 100%;
+    background-color: burlywood;
+    color:black;
+    position: fixed;
+    z-index: 1;
+    overflow: hidden;
+    padding-top: 20px;
+
+}
+#content{
+    width:200px;
+    height: 1000%;
+    background-color:brown;
+    flex-flow: 1; 
+}
